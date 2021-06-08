@@ -1,0 +1,8 @@
+**/.DS_Store
+.idea/
+target/
+2SIT.iml
+
+response_cache/
+export/
+logs/

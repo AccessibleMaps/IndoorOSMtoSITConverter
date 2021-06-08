@@ -1,0 +1,16 @@
+{
+  "areas": [
+    {
+      "minLongitude": 49.41689,
+      "maxLongitude": 49.41969,
+      "minLatitude": 8.67180,
+      "maxLatitude": 8.67695
+    }
+  ],
+  "username": "test",
+  "userId": "123456987453",
+  "serverUrl": "https://api.openstreetmap.org/api/0.6/",
+  "changesetId": "123456789",
+  "maxWallWidthInM": 0.4,
+  "maxLevelConnectionNodeOffsetInM": 0.6
+}
